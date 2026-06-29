@@ -46,3 +46,4 @@
 *.pkl binary
 *.parquet binary
 *.delta binary
+*.pdf binary
